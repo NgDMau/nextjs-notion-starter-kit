@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Thanh Demo',
+  name: 'Mau Demo',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Thanh Tran',
+  author: 'Mau DN',
 
   // open graph metadata (optional)
   description: 'Mot blog don gian cua Thanh',
